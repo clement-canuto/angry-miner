@@ -4,13 +4,13 @@ Working here on a Bitcoin miner mascot.
 
 ## Starting from sketch
 
-![](/home/canuto/Documents/Repos/angry-miner/angry-miner-sketch.svg)
+![](angry-miner-sketch.svg)
 
 ## Final version 
 
 The final version, colorized, with a datacenter blur background image. All others elements are vectors.
 
-![](/home/canuto/Documents/Repos/angry-miner/angry-miner.svg)
+![](angry-miner.svg)
 
 
 
